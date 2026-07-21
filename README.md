@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/pateldrup/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+## Math
+|  |
+| ------- |
+| [2525-categorize-box-according-to-criteria](https://github.com/pateldrup/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 <!---LeetCode Topics End-->
