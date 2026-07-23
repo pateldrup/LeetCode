@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0896-monotonic-array](https://github.com/pateldrup/LeetCode/tree/master/0896-monotonic-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pateldrup/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pateldrup/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
