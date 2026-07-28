@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/pateldrup/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [2525-categorize-box-according-to-criteria](https://github.com/pateldrup/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 ## Greedy
 |  |
@@ -72,4 +73,16 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pateldrup/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/pateldrup/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/pateldrup/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/pateldrup/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
