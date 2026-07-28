@@ -14,6 +14,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pateldrup/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2643-row-with-maximum-ones](https://github.com/pateldrup/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/pateldrup/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pateldrup/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2525-categorize-box-according-to-criteria](https://github.com/pateldrup/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
+| [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Greedy
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | ------- |
 | [1025-divisor-game](https://github.com/pateldrup/LeetCode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/pateldrup/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+| [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -94,4 +97,5 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/pateldrup/LeetCode/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
