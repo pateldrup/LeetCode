@@ -36,6 +36,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3163-string-compression-iii](https://github.com/pateldrup/LeetCode/tree/master/3163-string-compression-iii) |
 ## Sliding Window
 |  |
 | ------- |
