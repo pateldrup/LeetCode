@@ -104,4 +104,8 @@
 | ------- |
 | [1025-divisor-game](https://github.com/pateldrup/LeetCode/tree/master/1025-divisor-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/pateldrup/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
