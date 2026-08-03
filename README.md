@@ -126,4 +126,12 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/pateldrup/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/pateldrup/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1965-employees-with-missing-information](https://github.com/pateldrup/LeetCode/tree/master/1965-employees-with-missing-information) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
