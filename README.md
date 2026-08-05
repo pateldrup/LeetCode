@@ -16,6 +16,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pateldrup/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2574-left-and-right-sum-differences](https://github.com/pateldrup/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/pateldrup/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pateldrup/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pateldrup/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/pateldrup/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
