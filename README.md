@@ -129,6 +129,7 @@
 | [0511-game-play-analysis-i](https://github.com/pateldrup/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/pateldrup/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/pateldrup/LeetCode/tree/master/0595-big-countries) |
+| [0627-swap-sex-of-employees](https://github.com/pateldrup/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/pateldrup/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1965-employees-with-missing-information](https://github.com/pateldrup/LeetCode/tree/master/1965-employees-with-missing-information) |
 ## Linked List
