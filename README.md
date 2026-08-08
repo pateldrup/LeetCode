@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/pateldrup/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
 | [0896-monotonic-array](https://github.com/pateldrup/LeetCode/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/pateldrup/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pateldrup/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/pateldrup/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -29,6 +30,7 @@
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pateldrup/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/pateldrup/LeetCode/tree/master/0443-string-compression) |
+| [0977-squares-of-a-sorted-array](https://github.com/pateldrup/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -75,6 +77,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/pateldrup/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/pateldrup/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pateldrup/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Heap (Priority Queue)
