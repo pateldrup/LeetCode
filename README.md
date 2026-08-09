@@ -67,6 +67,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pateldrup/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2525-categorize-box-according-to-criteria](https://github.com/pateldrup/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
+| [2769-find-the-maximum-achievable-number](https://github.com/pateldrup/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pateldrup/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/pateldrup/LeetCode/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pateldrup/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
