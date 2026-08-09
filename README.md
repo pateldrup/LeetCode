@@ -22,6 +22,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pateldrup/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/pateldrup/LeetCode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/pateldrup/LeetCode/tree/master/3024-type-of-triangle) |
 | [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pateldrup/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2525-categorize-box-according-to-criteria](https://github.com/pateldrup/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pateldrup/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3024-type-of-triangle](https://github.com/pateldrup/LeetCode/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pateldrup/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Greedy
@@ -83,6 +85,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pateldrup/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2974-minimum-number-game](https://github.com/pateldrup/LeetCode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/pateldrup/LeetCode/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -170,4 +173,8 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/pateldrup/LeetCode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
