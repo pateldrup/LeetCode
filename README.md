@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/pateldrup/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/pateldrup/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
+| [0682-baseball-game](https://github.com/pateldrup/LeetCode/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/pateldrup/LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pateldrup/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -109,11 +110,13 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/pateldrup/LeetCode/tree/master/0682-baseball-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/pateldrup/LeetCode/tree/master/2974-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/pateldrup/LeetCode/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pateldrup/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
