@@ -68,6 +68,7 @@
 | ------- |
 | [1025-divisor-game](https://github.com/pateldrup/LeetCode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/pateldrup/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pateldrup/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pateldrup/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2525-categorize-box-according-to-criteria](https://github.com/pateldrup/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
@@ -166,6 +167,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/pateldrup/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pateldrup/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
