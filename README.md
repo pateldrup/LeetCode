@@ -25,6 +25,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/pateldrup/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/pateldrup/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/pateldrup/LeetCode/tree/master/3024-type-of-triangle) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pateldrup/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pateldrup/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Two Pointers
@@ -108,6 +109,7 @@
 | [1695-maximum-erasure-value](https://github.com/pateldrup/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pateldrup/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0206-reverse-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pateldrup/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pateldrup/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
