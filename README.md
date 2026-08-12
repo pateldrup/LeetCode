@@ -127,6 +127,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/pateldrup/LeetCode/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pateldrup/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pateldrup/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,11 +175,13 @@
 | [0206-reverse-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pateldrup/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pateldrup/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pateldrup/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pateldrup/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -200,4 +203,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pateldrup/LeetCode/tree/master/0455-assign-cookies) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/pateldrup/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
