@@ -31,6 +31,7 @@
 | [3024-type-of-triangle](https://github.com/pateldrup/LeetCode/tree/master/3024-type-of-triangle) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pateldrup/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pateldrup/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pateldrup/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Two Pointers
 |  |
@@ -108,6 +109,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pateldrup/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2974-minimum-number-game](https://github.com/pateldrup/LeetCode/tree/master/2974-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pateldrup/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pateldrup/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pateldrup/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Counting
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 | [0682-baseball-game](https://github.com/pateldrup/LeetCode/tree/master/0682-baseball-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/pateldrup/LeetCode/tree/master/2974-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pateldrup/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -184,6 +188,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pateldrup/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2487-remove-nodes-from-linked-list](https://github.com/pateldrup/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pateldrup/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pateldrup/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -220,4 +225,12 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pateldrup/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pateldrup/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pateldrup/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
