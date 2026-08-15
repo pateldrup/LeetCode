@@ -51,6 +51,7 @@
 | [0038-count-and-say](https://github.com/pateldrup/LeetCode/tree/master/0038-count-and-say) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0443-string-compression](https://github.com/pateldrup/LeetCode/tree/master/0443-string-compression) |
+| [0657-robot-return-to-origin](https://github.com/pateldrup/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pateldrup/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pateldrup/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pateldrup/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -131,6 +132,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/pateldrup/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/pateldrup/LeetCode/tree/master/0682-baseball-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/pateldrup/LeetCode/tree/master/2974-minimum-number-game) |
