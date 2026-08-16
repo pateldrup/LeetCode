@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/pateldrup/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/pateldrup/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
+| [0260-single-number-iii](https://github.com/pateldrup/LeetCode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0455-assign-cookies](https://github.com/pateldrup/LeetCode/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/pateldrup/LeetCode/tree/master/0682-baseball-game) |
@@ -213,6 +214,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/pateldrup/LeetCode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1486-xor-operation-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Polygons
