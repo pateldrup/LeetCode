@@ -22,6 +22,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/pateldrup/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/pateldrup/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/pateldrup/LeetCode/tree/master/1695-maximum-erasure-value) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pateldrup/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pateldrup/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/pateldrup/LeetCode/tree/master/0455-assign-cookies) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pateldrup/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pateldrup/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pateldrup/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2578-split-with-minimum-sum](https://github.com/pateldrup/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pateldrup/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
