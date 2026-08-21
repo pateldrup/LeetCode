@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/pateldrup/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/pateldrup/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/pateldrup/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/pateldrup/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
 | [0260-single-number-iii](https://github.com/pateldrup/LeetCode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pateldrup/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/pateldrup/LeetCode/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pateldrup/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/pateldrup/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Math
@@ -149,6 +151,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pateldrup/LeetCode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/pateldrup/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/pateldrup/LeetCode/tree/master/0682-baseball-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
