@@ -64,6 +64,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pateldrup/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/pateldrup/LeetCode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pateldrup/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/pateldrup/LeetCode/tree/master/3019-number-of-changing-keys) |
@@ -242,6 +243,7 @@
 | [0260-single-number-iii](https://github.com/pateldrup/LeetCode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1486-xor-operation-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/pateldrup/LeetCode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 ## Polygons
 |  |
 | ------- |
