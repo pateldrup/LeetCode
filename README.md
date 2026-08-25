@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/pateldrup/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/pateldrup/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/pateldrup/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/pateldrup/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pateldrup/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pateldrup/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
@@ -85,12 +86,14 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pateldrup/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/pateldrup/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pateldrup/LeetCode/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pateldrup/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/pateldrup/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pateldrup/LeetCode/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/pateldrup/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/pateldrup/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0908-smallest-range-i](https://github.com/pateldrup/LeetCode/tree/master/0908-smallest-range-i) |
