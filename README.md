@@ -42,6 +42,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pateldrup/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pateldrup/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pateldrup/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pateldrup/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Two Pointers
 |  |
@@ -158,6 +159,7 @@
 | [3146-permutation-difference-between-two-strings](https://github.com/pateldrup/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pateldrup/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pateldrup/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pateldrup/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
 | ------- |
