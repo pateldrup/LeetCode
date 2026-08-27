@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pateldrup/LeetCode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pateldrup/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pateldrup/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/pateldrup/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/pateldrup/LeetCode/tree/master/0048-rotate-image) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pateldrup/LeetCode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pateldrup/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pateldrup/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/pateldrup/LeetCode/tree/master/0142-linked-list-cycle-ii) |
