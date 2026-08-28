@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/pateldrup/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pateldrup/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/pateldrup/LeetCode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0455-assign-cookies](https://github.com/pateldrup/LeetCode/tree/master/0455-assign-cookies) |
@@ -133,6 +134,7 @@
 | [0016-3sum-closest](https://github.com/pateldrup/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/pateldrup/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/pateldrup/LeetCode/tree/master/0455-assign-cookies) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pateldrup/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/pateldrup/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -157,6 +159,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/pateldrup/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/pateldrup/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pateldrup/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pateldrup/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1695-maximum-erasure-value](https://github.com/pateldrup/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -169,6 +172,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pateldrup/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Simulation
@@ -317,4 +321,12 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/pateldrup/LeetCode/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
