@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pateldrup/LeetCode/tree/master/0048-rotate-image) |
+| [0292-nim-game](https://github.com/pateldrup/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/pateldrup/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/pateldrup/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0908-smallest-range-i](https://github.com/pateldrup/LeetCode/tree/master/0908-smallest-range-i) |
@@ -200,6 +201,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/pateldrup/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/pateldrup/LeetCode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/pateldrup/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -210,6 +212,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/pateldrup/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/pateldrup/LeetCode/tree/master/1025-divisor-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/pateldrup/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Database
@@ -329,4 +332,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/pateldrup/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/pateldrup/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/pateldrup/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
