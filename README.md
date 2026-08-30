@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/pateldrup/LeetCode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/pateldrup/LeetCode/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0455-assign-cookies](https://github.com/pateldrup/LeetCode/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/pateldrup/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -57,6 +58,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/pateldrup/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pateldrup/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/pateldrup/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/pateldrup/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/pateldrup/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/pateldrup/LeetCode/tree/master/0455-assign-cookies) |
 | [0917-reverse-only-letters](https://github.com/pateldrup/LeetCode/tree/master/0917-reverse-only-letters) |
