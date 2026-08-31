@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/pateldrup/LeetCode/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/pateldrup/LeetCode/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/pateldrup/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0443-string-compression](https://github.com/pateldrup/LeetCode/tree/master/0443-string-compression) |
