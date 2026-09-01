@@ -78,6 +78,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pateldrup/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pateldrup/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1844-replace-all-digits-with-characters](https://github.com/pateldrup/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/pateldrup/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pateldrup/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
