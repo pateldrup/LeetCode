@@ -35,6 +35,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pateldrup/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pateldrup/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/pateldrup/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pateldrup/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2574-left-and-right-sum-differences](https://github.com/pateldrup/LeetCode/tree/master/2574-left-and-right-sum-differences) |
