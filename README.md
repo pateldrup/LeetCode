@@ -37,6 +37,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/pateldrup/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/pateldrup/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pateldrup/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2574-left-and-right-sum-differences](https://github.com/pateldrup/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/pateldrup/LeetCode/tree/master/2643-row-with-maximum-ones) |
@@ -84,6 +85,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pateldrup/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/pateldrup/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/pateldrup/LeetCode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pateldrup/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
