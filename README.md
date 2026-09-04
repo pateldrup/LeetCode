@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pateldrup/LeetCode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/pateldrup/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pateldrup/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pateldrup/LeetCode/tree/master/0027-remove-element) |
@@ -168,6 +169,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pateldrup/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/pateldrup/LeetCode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/pateldrup/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/pateldrup/LeetCode/tree/master/0142-linked-list-cycle-ii) |
