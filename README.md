@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pateldrup/LeetCode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/pateldrup/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/pateldrup/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/pateldrup/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/pateldrup/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pateldrup/LeetCode/tree/master/0231-power-of-two) |
 | [2487-remove-nodes-from-linked-list](https://github.com/pateldrup/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |
@@ -284,6 +286,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pateldrup/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/pateldrup/LeetCode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1486-xor-operation-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1486-xor-operation-in-an-array) |
