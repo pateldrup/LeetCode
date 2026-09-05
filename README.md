@@ -78,6 +78,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pateldrup/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/pateldrup/LeetCode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/pateldrup/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/pateldrup/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/pateldrup/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/pateldrup/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pateldrup/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -179,6 +180,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/pateldrup/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/pateldrup/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/pateldrup/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pateldrup/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1695-maximum-erasure-value](https://github.com/pateldrup/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
