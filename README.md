@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/pateldrup/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pateldrup/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pateldrup/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/pateldrup/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/pateldrup/LeetCode/tree/master/0260-single-number-iii) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pateldrup/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/pateldrup/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/pateldrup/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/pateldrup/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/pateldrup/LeetCode/tree/master/0367-valid-perfect-square) |
