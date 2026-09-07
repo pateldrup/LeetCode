@@ -29,6 +29,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/pateldrup/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/pateldrup/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/pateldrup/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/pateldrup/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/pateldrup/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/pateldrup/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -130,6 +131,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/pateldrup/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pateldrup/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/pateldrup/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pateldrup/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2525-categorize-box-according-to-criteria](https://github.com/pateldrup/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2578-split-with-minimum-sum](https://github.com/pateldrup/LeetCode/tree/master/2578-split-with-minimum-sum) |
@@ -185,6 +187,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pateldrup/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/pateldrup/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pateldrup/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1512-number-of-good-pairs](https://github.com/pateldrup/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/pateldrup/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -199,6 +202,7 @@
 | [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/pateldrup/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pateldrup/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1512-number-of-good-pairs](https://github.com/pateldrup/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Simulation
 |  |
