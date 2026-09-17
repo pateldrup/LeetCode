@@ -345,6 +345,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pateldrup/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/pateldrup/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Search
@@ -358,14 +359,17 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pateldrup/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/pateldrup/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pateldrup/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/pateldrup/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pateldrup/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/pateldrup/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
