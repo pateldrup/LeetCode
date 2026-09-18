@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/pateldrup/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/pateldrup/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pateldrup/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/pateldrup/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/pateldrup/LeetCode/tree/master/0283-move-zeroes) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/pateldrup/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/pateldrup/LeetCode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pateldrup/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/pateldrup/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/pateldrup/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/pateldrup/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -226,6 +228,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pateldrup/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/pateldrup/LeetCode/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pateldrup/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
