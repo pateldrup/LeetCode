@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/pateldrup/LeetCode/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0455-assign-cookies](https://github.com/pateldrup/LeetCode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/pateldrup/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/pateldrup/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/pateldrup/LeetCode/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/pateldrup/LeetCode/tree/master/0896-monotonic-array) |
@@ -196,6 +197,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/pateldrup/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/pateldrup/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/pateldrup/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/pateldrup/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pateldrup/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/pateldrup/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -231,6 +233,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pateldrup/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/pateldrup/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/pateldrup/LeetCode/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pateldrup/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pateldrup/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -331,6 +334,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/pateldrup/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pateldrup/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/pateldrup/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Pigeonhole Principle
