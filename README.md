@@ -134,6 +134,7 @@
 | [0066-plus-one](https://github.com/pateldrup/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pateldrup/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/pateldrup/LeetCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/pateldrup/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/pateldrup/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/pateldrup/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/pateldrup/LeetCode/tree/master/0492-construct-the-rectangle) |
