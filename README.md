@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/pateldrup/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/pateldrup/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/pateldrup/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/pateldrup/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pateldrup/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pateldrup/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/pateldrup/LeetCode/tree/master/0066-plus-one) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pateldrup/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/pateldrup/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/pateldrup/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/pateldrup/LeetCode/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/pateldrup/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pateldrup/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/pateldrup/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pateldrup/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
@@ -196,6 +199,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pateldrup/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/pateldrup/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/pateldrup/LeetCode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/pateldrup/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/pateldrup/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pateldrup/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
