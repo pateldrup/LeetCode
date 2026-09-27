@@ -39,6 +39,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/pateldrup/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/pateldrup/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/pateldrup/LeetCode/tree/master/1695-maximum-erasure-value) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pateldrup/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pateldrup/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pateldrup/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pateldrup/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -98,6 +99,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pateldrup/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/pateldrup/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/pateldrup/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pateldrup/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pateldrup/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1844-replace-all-digits-with-characters](https://github.com/pateldrup/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/pateldrup/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -210,6 +212,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pateldrup/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/pateldrup/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/pateldrup/LeetCode/tree/master/1695-maximum-erasure-value) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pateldrup/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pateldrup/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
