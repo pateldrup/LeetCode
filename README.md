@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/pateldrup/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/pateldrup/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/pateldrup/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pateldrup/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pateldrup/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/pateldrup/LeetCode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/pateldrup/LeetCode/tree/master/0228-summary-ranges) |
@@ -256,6 +257,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pateldrup/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/pateldrup/LeetCode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/pateldrup/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
