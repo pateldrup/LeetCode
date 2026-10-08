@@ -107,6 +107,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pateldrup/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pateldrup/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1844-replace-all-digits-with-characters](https://github.com/pateldrup/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pateldrup/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/pateldrup/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pateldrup/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pateldrup/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -219,6 +220,7 @@
 | [1512-number-of-good-pairs](https://github.com/pateldrup/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/pateldrup/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pateldrup/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pateldrup/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pateldrup/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pateldrup/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -233,6 +235,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pateldrup/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pateldrup/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1512-number-of-good-pairs](https://github.com/pateldrup/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pateldrup/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Simulation
 |  |
