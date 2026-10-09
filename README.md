@@ -81,6 +81,7 @@
 | [0917-reverse-only-letters](https://github.com/pateldrup/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/pateldrup/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/pateldrup/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/pateldrup/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -110,6 +111,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pateldrup/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/pateldrup/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pateldrup/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/pateldrup/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pateldrup/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pateldrup/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -259,6 +261,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pateldrup/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/pateldrup/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pateldrup/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/pateldrup/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/pateldrup/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
