@@ -90,6 +90,7 @@
 | [0038-count-and-say](https://github.com/pateldrup/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/pateldrup/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/pateldrup/LeetCode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/pateldrup/LeetCode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/pateldrup/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0318-maximum-product-of-word-lengths](https://github.com/pateldrup/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/pateldrup/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -253,6 +254,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/pateldrup/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pateldrup/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/pateldrup/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pateldrup/LeetCode/tree/master/0496-next-greater-element-i) |
