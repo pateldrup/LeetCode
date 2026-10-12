@@ -31,6 +31,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pateldrup/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pateldrup/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pateldrup/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/pateldrup/LeetCode/tree/master/1002-find-common-characters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pateldrup/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/pateldrup/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -99,6 +100,7 @@
 | [0657-robot-return-to-origin](https://github.com/pateldrup/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/pateldrup/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/pateldrup/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/pateldrup/LeetCode/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pateldrup/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/pateldrup/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/pateldrup/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -222,6 +224,7 @@
 | [0496-next-greater-element-i](https://github.com/pateldrup/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/pateldrup/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pateldrup/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/pateldrup/LeetCode/tree/master/1002-find-common-characters) |
 | [1512-number-of-good-pairs](https://github.com/pateldrup/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/pateldrup/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pateldrup/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
