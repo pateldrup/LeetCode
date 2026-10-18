@@ -35,6 +35,7 @@
 | [1002-find-common-characters](https://github.com/pateldrup/LeetCode/tree/master/1002-find-common-characters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pateldrup/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/pateldrup/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1313-decompress-run-length-encoded-list](https://github.com/pateldrup/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pateldrup/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pateldrup/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/pateldrup/LeetCode/tree/master/1550-three-consecutive-odds) |
